@@ -67,3 +67,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+![Screenshot 2024-01-22 121230](https://github.com/Praveenkumar625/Shopify-Angular/assets/116333254/b5bdeddb-ea45-4c8f-ba60-35a876dfa692)
+
+![Screenshot 2024-01-22 121212](https://github.com/Praveenkumar625/Shopify-Angular/assets/116333254/ba8eb1a1-1020-4db6-ac1c-db9ed146e362)
+
+![Screenshot 2024-01-22 121143](https://github.com/Praveenkumar625/Shopify-Angular/assets/116333254/8c443906-3aa5-4d0d-9102-484b33076b96)

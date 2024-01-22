@@ -1,10 +1,52 @@
-# Shopify
+# Shopify Clone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
+
+A simplified version of Shopify, implemented using Angular, TypeScript, HTML, and CSS. This project includes functionality such as- seller login, adding products, deleting products, and more. It also involves API integration, database usage, and routing.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Features
+
+- **Product Management:** Easily add, edit, and delete products.
+- **Seller Login:** Secure login functionality for sellers.
+- **API Integration:** Communicate with external APIs for various functionalities.
+- **Database:** Persistent storage for product and user data.
+- **Routing:** Smooth navigation between different pages.
+
+## Technologies Used
+
+- **Angular:** Front-end framework for building the user interface.
+- **TypeScript:** Superset of JavaScript for adding static types.
+- **HTML:** Markup language for creating the structure of web pages.
+- **CSS:** Styling language to make your application visually appealing.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js: [Download and Install Node.js](https://nodejs.org/)
+- Angular CLI: Install using the following command:
+  ```bash
+  npm install -g @angular/cli
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:3000/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

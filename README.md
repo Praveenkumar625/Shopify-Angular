@@ -9,13 +9,6 @@ A simplified version of Shopify, implemented using Angular, TypeScript, HTML, an
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -31,16 +24,6 @@ A simplified version of Shopify, implemented using Angular, TypeScript, HTML, an
 - **TypeScript:** Superset of JavaScript for adding static types.
 - **HTML:** Markup language for creating the structure of web pages.
 - **CSS:** Styling language to make your application visually appealing.
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js: [Download and Install Node.js](https://nodejs.org/)
-- Angular CLI: Install using the following command:
-  ```bash
-  npm install -g @angular/cli
-
 
 -----------------------------------------------------------------------------------------------------------------------
 
